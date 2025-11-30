@@ -8,7 +8,7 @@ The app also fetches a daily quote from a public API for inspiration.
 ## Setup Instructions
 1.  **Clone the repository:**
     ```bash
-    git clone []
+    git clone [https://github.com/Anna-Shum-ui/goal-tracker.git]
     cd goal-tracker
     ```
 2.  **Install dependencies:**
